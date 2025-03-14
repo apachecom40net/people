@@ -4,5 +4,5 @@
 https://github.com/hegdepavankumar
 
 ### 
-Fortigate Complet Guide
+Fortigate Complete Guide
 https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide
